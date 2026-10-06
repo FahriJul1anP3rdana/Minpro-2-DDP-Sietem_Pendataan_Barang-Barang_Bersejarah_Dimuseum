@@ -63,7 +63,7 @@ Nah disini ada def login, dimana terdapat username dan password untuk masing mas
 
 <img width="940" height="246" alt="image" src="https://github.com/user-attachments/assets/7ce581c4-9cd0-4c7d-b6b8-efa15459cfc9" />
 
-Nah, disini ada menu admin yang dimana saya menggunakan perulangan while true, if, elif, dan else, supaya nanti admin bisa menginputkan nomor untuk admin bisa memilih daftar menu dan isinya itu ada 1-5, dan jika admin menginu. Jika mengetik angka 1 maka admin di arahkan ke tambah barang. kalau mengetik angka 2, maka admin akan di arahkan ke melihat barang. Kalau mengetik angka 3, maka admin akan di arahkan ke mengedit barang. Dan jika admin mengetik angka 4 maka dia akan di arahkan ke delete barang. Dan yang terakhir jika admin mengetik angka 5 maka itu akan break alias perulangan selesai. Saya juga menggunakan time.sleep untuk menjeda waktu peringatan agar ga langsung hilang.
+Nah, disini ada menu admin yang dimana saya menggunakan perulangan while true, if, elif, dan else, supaya nanti admin bisa menginputkan nomor untuk admin bisa memilih daftar menu dan isinya itu ada 1-5, dan jika admin mengetik lebih dari 5 itu akan muncul peringatan. Jika mengetik angka 1 maka admin di arahkan ke tambah barang. kalau mengetik angka 2, maka admin akan di arahkan ke melihat barang. Kalau mengetik angka 3, maka admin akan di arahkan ke mengedit barang. Dan jika admin mengetik angka 4 maka dia akan di arahkan ke delete barang. Dan yang terakhir jika admin mengetik angka 5 maka itu akan break alias perulangan selesai. Saya juga menggunakan time.sleep untuk menjeda waktu peringatan agar ga langsung hilang.
 
 <img width="466" height="201" alt="image" src="https://github.com/user-attachments/assets/ef076b6c-5239-4bfc-b01e-50a04488662f" />
 
