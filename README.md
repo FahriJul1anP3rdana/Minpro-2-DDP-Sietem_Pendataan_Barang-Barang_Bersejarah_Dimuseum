@@ -74,7 +74,82 @@ outputnya:
 
   <img width="118" height="36" alt="image" src="https://github.com/user-attachments/assets/e8ddd140-1715-43d8-8a2f-ec4db196dde1" />
 
-  output untuk memasukan
+  output untuk memasukan username dan password (untuk admin)
+
+  <img width="395" height="56" alt="Screenshot 2026-10-06 174414" src="https://github.com/user-attachments/assets/6e2a5085-11b2-4cf0-9371-08e34faf535f" />
+
+  Menu admin
+
+  <img width="482" height="47" alt="Screenshot 2026-10-06 174501" src="https://github.com/user-attachments/assets/1b221fd0-d7bb-41ed-9f84-85464573670e" />
+
+  <img width="375" height="62" alt="Screenshot 2026-10-06 174513" src="https://github.com/user-attachments/assets/4312cb55-4e28-4f4d-8bc0-42d946833393" />
+
+  tambah barang
+
+  <img width="163" height="46" alt="image" src="https://github.com/user-attachments/assets/9023cb20-bd6f-4747-a3df-f38665d08256" />
+
+  Lihat barang
+
+  <img width="318" height="98" alt="Screenshot 2026-10-06 175007" src="https://github.com/user-attachments/assets/d8fab1a4-3584-45bc-97e4-5befda44ae71" />
+
+  <img width="167" height="44" alt="Screenshot 2026-10-06 175029" src="https://github.com/user-attachments/assets/08abb986-785f-476f-b9a7-4e7b36f97077" />
+
+  Edit barang
+
+  <img width="254" height="68" alt="Screenshot 2026-10-06 175100" src="https://github.com/user-attachments/assets/5a01b980-ccf2-4dac-aa32-54b22e4cc0ff" />
+
+  <img width="166" height="39" alt="Screenshot 2026-10-06 175111" src="https://github.com/user-attachments/assets/834158a7-ab66-4aea-825d-a09b2eb0b9c5" />
+
+  Hapus Barang
+
+  <img width="335" height="15" alt="Screenshot 2026-10-06 175123" src="https://github.com/user-attachments/assets/7e0d90b9-6df3-4a2b-972a-9e3b9594924e" />
+
+  Keluar (Break)
+
+  Menu User:
+
+  <img width="107" height="44" alt="image" src="https://github.com/user-attachments/assets/3c8da778-47dc-464a-b6df-51e53115ffbe" />
+
+  output untuk memasukan username dan password (untuk user)
+
+  <img width="98" height="14" alt="image" src="https://github.com/user-attachments/assets/3ee35e30-e0a4-4e22-98cc-7ae70b00650d" />
+
+  Menu user
+
+  <img width="167" height="50" alt="image" src="https://github.com/user-attachments/assets/419d24e4-a72f-4ecd-ba28-bf237abc5dba" />
+
+  menu untuk lihat barang
+
+  <img width="89" height="19" alt="image" src="https://github.com/user-attachments/assets/60274814-333d-4860-93dd-352667c46c73" />
+
+  keluar (break)
+
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
 
 
   
